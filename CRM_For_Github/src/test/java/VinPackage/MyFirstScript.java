@@ -6,6 +6,7 @@ public class MyFirstScript {
 	@Test
 	public void testGitPush() {
 		System.out.println("Success");
+		System.out.println("Success");
 	}
 
 }

@@ -4,7 +4,7 @@ package Nanditha;
 public class TestGitCommit {
 
 			System.out.println("git commit test Nanditha ");
-			System.out.println("Success");
+			System.out.println("Success Success");
 		}
 
 	}

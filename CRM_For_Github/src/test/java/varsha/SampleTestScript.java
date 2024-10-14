@@ -7,5 +7,6 @@ public class SampleTestScript {
 		
 		
 		System.out.println("Sample Automation testscript");
+		System.out.println("hello");
 	}
 }

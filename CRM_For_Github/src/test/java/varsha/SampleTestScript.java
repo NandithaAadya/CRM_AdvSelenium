@@ -2,7 +2,7 @@ package varsha;
 
 public class SampleTestScript {
 
-	
+	@Test
 	public void sampleTestScript() {
 		
 		
